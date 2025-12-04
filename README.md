@@ -93,11 +93,3 @@ It motivates the work and helps others discover this resource.
 **Sakshi Samal**
 *Learning programming one step at a time, exploring the world of data types and structures.*
 
----
-
-If you'd like, I can also create:
-📌 A banner/header image for your repo
-📄 A markdown version of the notebook
-🗂️ Folder structure recommendations
-
-Just tell me! 😊
